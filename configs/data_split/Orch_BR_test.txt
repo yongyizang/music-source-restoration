@@ -1,0 +1,10 @@
+RawStems/Arcadian_Alone|The_Deathless_One
+RawStems/Domestic_Research_Partners|NEW!_'Old_Empty_Nest
+RawStems/Ethan_Winer|Cello_Concerto_in_A_Minor
+RawStems/Ikebe_Shakedown|The_Last_Stand
+RawStems/Kat_Wright|By_My_Side
+RawStems/Lindy_Hip_Big_Band|Makin'_Whoopee
+RawStems/Marc_Ellason|Treadmills
+RawStems/Maurizio_Pagnutti_Sextet|Bess
+RawStems/Ripe|4_Out_Of_10
+RawStems/Scott_Elliott|Aeternum_Vale

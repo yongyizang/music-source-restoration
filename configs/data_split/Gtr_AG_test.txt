@@ -1,0 +1,16 @@
+RawStems/Adam_Buckley|Drag_me_Down
+RawStems/Enda_Reilly|An_Nasc_Nua
+RawStems/Fergessen|Back_From_The_Start
+RawStems/Guarna|Parole_Vuote
+RawStems/JAKUB_BYZIA|SODA_ENVY
+RawStems/James_May|Eliza_Jane
+RawStems/James_May|Hold_On_You
+RawStems/Jesse_Joy|Nearly_There
+RawStems/Leslie_Mendelson|The_Hardest_Part
+RawStems/Paul_Smith_&_8_Days_A_Week_Studio|NEW!_'The_Weight
+RawStems/Peter_White|The_Blues_Is_A_Lady
+RawStems/Plywood_Cowboy|Last_Night's_Gig
+RawStems/Santi_Vega|Ying_Yang
+RawStems/Skyeez_&_The_Whiteflies|Banana_Split
+RawStems/The_Wrong'uns|Rothko
+RawStems/oxeye|Sorry

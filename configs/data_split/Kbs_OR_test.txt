@@ -1,0 +1,10 @@
+RawStems/Andres_Guazzelli|Attention
+RawStems/Egda_Carolyn|Saudade_Do_Teu_Beijo
+RawStems/Man_About_A_Dog|Maggie_May
+RawStems/Peter_White|The_Blues_Is_A_Lady
+RawStems/Rovers_Ahead|It's_In_These_Times
+RawStems/ShortWave_RadioBand|SomeDay
+RawStems/Street_Noise|You_Are_The_One
+RawStems/Swinging_Steaks|Lost_My_Way
+RawStems/The_Lonely_Wild|Scar
+RawStems/West_End_Blend|Must_Be_Voodoo

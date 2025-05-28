@@ -1,0 +1,10 @@
+RawStems/Catfolkin|Odi_A_La_Barretina
+RawStems/Eddie_Garrido|Africa
+RawStems/Johnny_Swain|Freedom_(Lay_Down_My_Live_For_You)
+RawStems/Kangoro|Clinic_A
+RawStems/Maurizio_Pagnutti_Sextet|Bess
+RawStems/ShortWave_RadioBand|SomeDay
+RawStems/Spektakulatius|Wayfaring_Stranger
+RawStems/Ted_Behrman|Convertible
+RawStems/The_Abletones_Big_Band|Corine,_Corine
+RawStems/Xarxa|Cors_Desbocats

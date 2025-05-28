@@ -1,0 +1,42 @@
+---
+sample_rate: 44100
+clip_duration: 10.
+exp_name: "Keyboards"
+save_path: "/root/autodl-tmp/exp"
+
+train_data:
+    target_stem: "Kbs"
+    root_directory: "/root/autodl-tmp"
+    file_list: "/root/music_source_restoration/configs/data_split/Kbs_train.txt"
+    snr_range: [-5, 20]
+    apply_augmentation: true
+
+test_data:
+    target_stem: "Kbs"
+    root_directory: "/root/autodl-tmp"
+    file_list: "/root/music_source_restoration/configs/data_split/Kbs_test.txt"
+    snr_range: [-5, 20]
+    apply_augmentation: true
+
+model:
+    name: UFormer
+    n_fft: 2048 
+    hop_length: 441
+    n_layer: 6
+    n_head: 8
+    n_embd: 256
+
+train:
+    device: cuda
+    num_workers: 20
+    precision: "no"  # "no" (fp32) | "fp8" | "fp16" | bf16 
+    optimizer: AdamW
+    lr_generator: 5e-4
+    lr_discriminator: 5e-5
+    warm_up_steps: 1000  # Leave blank if no warm up is used
+    batch_size_per_device: 4
+    test_every_n_steps: 5000
+    save_every_n_steps: 5000
+    training_steps: 500000
+    log_audio_every_n_steps: 1000
+    resume_ckpt_path:

@@ -1,0 +1,10 @@
+RawStems/APZX|Transcention
+RawStems/Ben_Carrigan|We'll_Talk_About_It_All_Tonight
+RawStems/Blues_Bastards|Sugar
+RawStems/Drumtracks|Ghost_Bitch
+RawStems/Enda_Reilly|Cur_An_Long_Ag_Seol
+RawStems/Pablo_Martin|Progresivo_1,_El_Vuelo
+RawStems/Raft_Monk|Tiring
+RawStems/The_Travelling_Band|Passing_Ships
+RawStems/V.M.GY|Omen
+RawStems/simplemachine|Ingloria
