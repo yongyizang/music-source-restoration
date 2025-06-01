@@ -1,7 +1,7 @@
 # Music Source Restoration
 Official Repository for "Music Source Restoration"
 
-[Paper Link](./preprint.pdf)[![Dataset on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/yongyizang/RawStems)[![Model on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm.svg)](https://huggingface.co/models)[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/yongyizang/MusicSourceRestoration)
+[ArXiv Link](https://arxiv.org/abs/2505.21827)[![Dataset on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/yongyizang/RawStems)[![Model on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm.svg)](https://huggingface.co/models)[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/yongyizang/MusicSourceRestoration)
 
 
 Note that the main purpose of this repository is a starting template for the research/engineering community to implement their own models. It is not intended to be a production-ready solution.
@@ -36,3 +36,14 @@ python train.py -c {config_file}
 ```
 
 Please see example config files in `configs/`.
+
+## Cite
+If any part of this repository is useful to you, please consider citing us using the following BibTeX:
+```
+@article{zang2025music,
+  title={Music Source Restoration},
+  author={Zang, Yongyi and Dai, Zheqi and Plumbley, Mark D and Kong, Qiuqiang},
+  journal={arXiv preprint arXiv:2505.21827},
+  year={2025}
+}
+```
